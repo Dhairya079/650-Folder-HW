@@ -1,0 +1,21 @@
+    #guyImg{
+    width:450px;
+    height:400px;
+    border:solid red 2.5px;
+    padding:1px;
+  }
+  body{
+  text-align:center;  
+  }
+  h1{
+    word-spacing:10px;
+    font-variant:small-caps;
+    font-size:40px;
+    font-family:cursive;
+  }
+  #name{
+    word-spacing:10px;
+    font-variant:small-caps;
+    font-size:19.0000001px;
+    font-family:cursive; 
+  }
